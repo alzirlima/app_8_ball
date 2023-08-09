@@ -1,6 +1,6 @@
 # app_8_ball
 
-A new Flutter project.
+Um projeto flutter onde você aperta na bola 8 e uma frase aleatória é disparada.
 
 ## Getting Started
 
